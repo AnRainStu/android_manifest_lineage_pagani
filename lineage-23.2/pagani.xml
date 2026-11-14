@@ -1,10 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-    <project name="AnRainStu/android_device_oneplus_pagani" path="device/oneplus/pagani" remote="github" revision="666d6ace1f2961af5e7b59f3e0f0058e3bc1eeac" upstream="refs/heads/lineage-23.2" />
-    <project name="Theresa-owo/android_device_oneplus_sm8750-common" path="device/oneplus/sm8750-common" remote="github" revision="71938b0aacdb50c2913ed0bb8aae7b5e273f1214" upstream="refs/heads/lineage-23.2" />
-    <project name="AnRainStu/android_hardware_oplus" path="hardware/oplus" remote="github" revision="4b9196d1d9ac647229ce44eb162ea3635a7950af" upstream="refs/heads/lineage-23.2-pagani" />
-    <project name="LineageOS/android_kernel_oneplus_sm8750" path="kernel/oneplus/sm8750" remote="github" revision="0c7e7eb67745dfe25af521fefdaa7e384c66d00a" upstream="refs/heads/lineage-23.2" />
-    <project name="LineageOS/android_kernel_oneplus_sm8750-devicetrees" path="kernel/oneplus/sm8750-devicetrees" remote="github" revision="2f46fad8ad309266de2405666016f8e0679883d5" upstream="refs/heads/lineage-23.2" />
-    <project name="AnRainStu/android_kernel_oneplus_sm8750-modules" path="kernel/oneplus/sm8750-modules" remote="github" revision="b47554751f6cd0f2acdde81cefd9eba0cad1ac71" upstream="refs/heads/lineage-23.2-pagani" />
-    <project name="TheMuppets/proprietary_vendor_oneplus_sm8750-common" path="vendor/oneplus/sm8750-common" remote="github" revision="ca08912660e37ee1ee1652785c92a5c4b3efa131" upstream="refs/heads/lineage-23.2" />
-</manifest>
+
